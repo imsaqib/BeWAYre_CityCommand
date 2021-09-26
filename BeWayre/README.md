@@ -26,7 +26,8 @@ In order to run this app:
  
  --Steps to install libraries- _pip install library_name_
  
- --Change the path of files in the CodeMB.py in line_203 & 212
+ --Change the path of files in the CodeMB.py in line 279,288 and 391
+ 
  
  --Then Run the script "CodeMB.py"
  
